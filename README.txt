@@ -24,4 +24,4 @@ Additionally, the video_stitching.py script depends on:
 - ffprobe: A tool for retrieving video metadata (e.g., duration).
  
 ##Version information
-06/01/2025: Initial release of video management and processing scripts.
+11/12/2024: Initial release of video management and processing scripts.
